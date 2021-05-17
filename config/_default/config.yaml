@@ -4,11 +4,11 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Title of your site
-title = "Jonas Nauerz"
+title : Jonas Nauerz
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+baseurl : '/'
 
 ############################
 ## LANGUAGE
