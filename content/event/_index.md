@@ -9,7 +9,7 @@ cms_exclude: true
 view: 2
 
 # Optional header image (relative to `static/media/` folder).
-header:
-  caption: ""
+header: 2021 International Association for Applied Econometrics (IAAE) Annual Conference
+  caption: "Presentation of "Temperature Shocks and Real Exchange Rates""
   image: ""
 ---
