@@ -1,7 +1,7 @@
 ---
 title: Curriculum Vitae
 date: 2021-05-17
-
+cms_exclude: true
 view: 2
 
 # Schedule page publish date (NOT publication's date).
