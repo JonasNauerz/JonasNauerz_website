@@ -7,14 +7,14 @@ publishDate: 2021-05-17T14:37:16.459582Z
 
 authors: ["Jonas Nauerz"]
 
-publication_types: ["2"]
+publication_types: ["0"]
 
-summary: ""
+summary: "Test"
 
-abstract: ""
+abstract: "Test"
 
 featured: false
 
-publication: ""
+publication: "Test"
 
 ---
