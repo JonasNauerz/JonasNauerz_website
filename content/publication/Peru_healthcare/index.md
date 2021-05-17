@@ -17,4 +17,7 @@ featured: false
 
 publication: "IMF Working Paper WP/21/106"
 
+{{% callout note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /callout %}}
 ---
