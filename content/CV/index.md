@@ -1,7 +1,8 @@
 ---
-title: "Curriculum Vitae"
-authors: ["Jonas Nauerz"]
+title: Curriculum Vitae
 date: 2021-05-17
+
+view: 2
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-05-17T12:36:38+02:00
@@ -13,3 +14,4 @@ publishDate: 2021-05-17T12:36:38+02:00
 publication_types: ["0"]
 
 ---
+
