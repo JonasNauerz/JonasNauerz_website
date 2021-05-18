@@ -1,12 +1,20 @@
 ---
-title: Curriculum Vitae
-cms_exclude: true
+title: "Curriculum Vitae"
 
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-#   4 = Citation
-view: 2
+date: 2021-05-17
+
+publishDate: 2021-05-17T14:37:16.459582Z
+
+authors: ["Jonas Nauerz"]
+
+publication_types: ["0"]
+
+summary: "Test"
+
+abstract: "Test"
+
+featured: false
+
+publication: "Test"
 
 ---
