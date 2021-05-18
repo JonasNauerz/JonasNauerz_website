@@ -73,7 +73,7 @@ user_groups:
 - Visitors
 ---
 
-I am a macroeconomist with interests in labor market questions and the effects of government policies. In particular, I am interested in how micro heterogeneity interacts with the macroeconomy and how it affects economic policy. 
+I am a macroeconomist with a focus on labor market questions and the effects of government policies. I am particularly interested in how heterogeneity on a micro level such as age, gender, and marital status interacts with economic policy and the macroeconomy. 
 
 Currently, I am a third year PhD student in Economics at the University of Notre Dame. Before joining Notre Dame, I graduated with a Master of Science in Economics from the Stockholm School of Economics and during my undergraduate studies at the Goethe University in Frankfurt, I spent a semester abroad at the University of Iceland in Reykjavik. 
 
