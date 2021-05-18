@@ -77,3 +77,4 @@ I am a macroeconomist with a focus on labor market questions and the effects of 
 
 Currently, I am a third year PhD student in Economics at the University of Notre Dame. Before joining Notre Dame, I graduated with a Master of Science in Economics from the Stockholm School of Economics and during my undergraduate studies at the Goethe University in Frankfurt, I spent a semester abroad at the University of Iceland in Reykjavik. 
 
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "files/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
