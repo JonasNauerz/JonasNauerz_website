@@ -30,8 +30,8 @@ address:
   country: United States
   country_code: US
 coordinates:
-  latitude: '41.69595521243214'
-  longitude: '-86.2377747019868'
+  latitude: '41.6960'
+  longitude: '-86.2378'
 # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 # office_hours: - 'Monday 10:00 to 13:00'  - 'Wednesday 09:00 to 10:00'
 # appointment_url: 'https://calendly.com'
@@ -139,7 +139,7 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: ''
+  provider: google
   api_key: ''
   zoom: 15
 marketing:
