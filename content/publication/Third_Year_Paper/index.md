@@ -32,7 +32,7 @@ young children benefit substantially from the reform, but overall welfare falls 
 there are many households that lose marginally."
 
 # Summary. An optional shortened abstract.
-summary: "Using a life-cycle model of heterogeneous households, family labor supply, and intra-household bargaining, I study the effects of increasing U.S. public spending on childcare to Scandinavian levels on women's labor supply and find that the policy increases long-run labor force participation among married women"
+summary: "Using a life-cycle model of heterogeneous households, family labor supply, and intra-household bargaining, I study the effects of increasing U.S. public spending on childcare to Scandinavian levels on women's labor supply and find that the policy increases long-run labor force participation among married women."
 
 tags: ["Household Labor Supply", "Childcare", "Family Policy"]
 ---
