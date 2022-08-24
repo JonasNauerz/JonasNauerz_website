@@ -21,7 +21,7 @@ abstract: "Policies such as changes to income taxation and subsidized childcare 
 # Summary. An optional shortened abstract.
 summary: "I analyze the effects of a policy reform that moves from an income tax system in which married households are taxed jointly to one in which individuals are the unit of taxation. I consider the possibility of imperfect sustainability of male and female labor inputs in the production process based on empirical evidence I obtained exploiting a natural experiment in the availability of public daycare in Germany."
 
-featured: true
+featured: false
 
 tags: ["Household Labor Supply", "Taxes", "Family Policy"]
 ---
