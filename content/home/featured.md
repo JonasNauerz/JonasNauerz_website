@@ -3,6 +3,10 @@ widget: featured
 headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
+# Order that this section appears on the page.
+weight: 90
+
+title: "Job Market Paper"
 
 content:
   # Page type to display. E.g. post, event, or publication.
