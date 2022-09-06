@@ -16,9 +16,9 @@ role: Economics PhD Candidate
 organizations:
 - name: University of Notre Dame
   url: "https://economics.nd.edu"
-  adress: "3018 Jenkins Nanovic Hall, Notre Dame, IN 46556"
-  phone: "+1 574 440-9631"
-  email: "mailto:jnauerz@nd.edu"
+- adress: "3018 Jenkins Nanovic Hall, Notre Dame, IN 46556"
+- phone: "+1 574 440-9631"
+- email: "mailto:jnauerz@nd.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Macroeconomics, Labor Economics, and International Economics.
