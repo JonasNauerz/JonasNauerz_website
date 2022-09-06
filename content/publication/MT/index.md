@@ -1,7 +1,7 @@
 ---
 title: "Employment during Retirement? - Simulating a Pension Reform in a Life Cycle Model for Germany"
 
-date: 2021-04-23
+date: 2018-5-15
 
 publishDate: 2021-04-23T14:37:16.459582Z
 
@@ -15,6 +15,6 @@ abstract: "In many countries, the ratio of pension entitlement to earnings is de
 
 featured: false
 
-publication: "IMF Working Paper WP/21/106"
+publication: ""
 
 ---
