@@ -1,9 +1,9 @@
 ---
 title: "Employment during Retirement? - Simulating a Pension Reform in a Life Cycle Model for Germany"
 
-date: 2018-5-15
+date: 2018-05-15
 
-publishDate: 2021-04-23T14:37:16.459582Z
+publishDate: 
 
 authors: ["Jonas Nauerz"]
 
@@ -15,6 +15,6 @@ abstract: "In many countries, the ratio of pension entitlement to earnings is de
 
 featured: false
 
-publication: ""
+publication: "Working Paper"
 
 ---
