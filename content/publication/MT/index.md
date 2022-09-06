@@ -1,5 +1,5 @@
 ---
-title: "Employment during Retirement? - Simulating a Pension Reform in a Life Cycle Model for Germany"
+title: "Employment during Retirement? Simulating a Pension Reform in a Life-Cycle Model for Germany"
 
 date: 2018-05-15
 
