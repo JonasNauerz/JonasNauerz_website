@@ -10,12 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Economics PhD Student
+role: Economics PhD Candidate
 
 # Organizations/Affiliations
 organizations:
 - name: University of Notre Dame
   url: "https://economics.nd.edu"
+  adress: "3018 Jenkins Nanovic Hall, Notre Dame, IN 46556"
+  phone: "+1 574 440-9631"
+  email: "mailto:jnauerz@nd.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Macroeconomics, Labor Economics, and International Economics.
@@ -45,9 +48,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:jnauerz@nd.edu"  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/JonasNauerz
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/JonasNauerz
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com/citations?user=CKfiatwAAAAJ&hl=en&oi=ao
@@ -73,8 +76,10 @@ user_groups:
 - Visitors
 ---
 
-Thank you for visiting my website! My name is Jonas Nauerz, and I am a macroeconomist focusing on labor market questions and the effects of government policies. I am particularly interested in how heterogeneity on a micro level, such as age, gender, and marital status, interacts with economic policy and the macroeconomy.
+I am a macroeconomist focusing on labor market questions, and I am particularly interested in the interaction between micro-level heterogeneity and the effects of economic policy.
 
-Currently, I am a fifth-year Ph.D. student in economics at the University of Notre Dame. Before joining Notre Dame, I graduated with a Master of Science in economics from the Stockholm School of Economics. During my undergraduate studies at the Goethe University in Frankfurt, I spent a semester abroad at the University of Iceland in Reykjavik.
+Currently, I am a fifth-year Ph.D. student in economics at the University of Notre Dame. Before joining Notre Dame, I graduated with an MSc in economics from the Stockholm School of Economics.
+
+<!-- You can find my Job Market Paper {{< staticref "files/JMP.pdf" "newtab" >}}here{{< /staticref >}}. -->
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "files/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
