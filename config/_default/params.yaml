@@ -24,8 +24,8 @@ email: jnauerz@nd.edu
 phone: +1 574 440-9631
 address:
   street: 3018 Jenkins Nanovic Hall
-  city: Notre Dame 
-  region: IN 
+  city: Notre Dame
+  region: IN
   postcode: '46556'
   country: United States
   country_code: US
@@ -139,11 +139,11 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: 
-  api_key: 
+  provider:
+  api_key:
   zoom: 15
 marketing:
-  google_analytics: ''
+  google_analytics: 'G-1NEGKDD07P'
   google_tag_manager: ''
   google_site_verification: ''
   baidu_site_verification: ''
