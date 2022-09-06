@@ -73,8 +73,8 @@ user_groups:
 - Visitors
 ---
 
-Thank you for visiting my website! My name is Jonas Nauerz, and I am a macroeconomist with a focus on labor market questions and the effects of government policies. I am particularly interested in how heterogeneity on a micro level such as age, gender, and marital status interacts with economic policy and the macroeconomy. 
+Thank you for visiting my website! My name is Jonas Nauerz, and I am a macroeconomist focusing on labor market questions and the effects of government policies. I am particularly interested in how heterogeneity on a micro level, such as age, gender, and marital status, interacts with economic policy and the macroeconomy.
 
-Currently, I am a fifth-year Ph.D. student in economics at the University of Notre Dame. Before joining Notre Dame, I graduated with a Master of Science in economics from the Stockholm School of Economics, and during my undergraduate studies at the Goethe University in Frankfurt, I spent a semester abroad at the University of Iceland in Reykjavik. 
+Currently, I am a fifth-year Ph.D. student in economics at the University of Notre Dame. Before joining Notre Dame, I graduated with a Master of Science in economics from the Stockholm School of Economics. During my undergraduate studies at the Goethe University in Frankfurt, I spent a semester abroad at the University of Iceland in Reykjavik.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "files/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
