@@ -48,7 +48,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:jnauerz@nd.edu"  # For a direct email link, use "mailto:test@example.org".
+  link: '/#contact'
+# - icon: envelope
+#   icon_pack: fas
+#   link: "mailto:jnauerz@nd.edu"  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/JonasNauerz
