@@ -1,5 +1,5 @@
 ---
-title: "Men and Women at Work - The Macroeconomic Importance of Workplace Diversity"
+title: "Men and Women at Work - Gains from Individual Taxation and the Macroeconomic Importance of Workforce Diversity"
 authors: ["Jonas Nauerz"]
 date: 2022-08-22
 
