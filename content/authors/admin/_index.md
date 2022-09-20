@@ -14,11 +14,11 @@ role: Economics PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: University of Notre Dame 3018 Jenkins Nanovic Hall, Notre Dame, IN 46556
+- name: University of Notre Dame 
   url: "https://economics.nd.edu/graduate-program/job-market-candidates/"
-- adress: 3018 Jenkins Nanovic Hall, Notre Dame, IN 46556
-- phone: +1 574 440-9631
-- email: jnauerz@nd.edu 
+- name: 3018 Jenkins Nanovic Hall, Notre Dame, IN 46556
+- name: +1 574 440-9631
+- name: jnauerz@nd.edu 
   url: "mailto:jnauerz@nd.edu"
 
 # Short bio (displayed in user profile at end of posts)
