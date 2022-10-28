@@ -1,7 +1,7 @@
 ---
 title: "Global Temperature Shocks and Real Exchange Rates"
 
-date: 2022-07-13
+date: 2021-03-04
 
 publishDate: 2021-03-4T14:37:16.459582Z
 
@@ -15,6 +15,6 @@ abstract: "We find heterogeneous impulse responses of monthly U.S. dollar (USD) 
 
 featured: false
 
-publication: "Working Paper - Revise and Resubmit at the Journal of Climate Finance"
+publication: "Working Paper"
 
 ---
