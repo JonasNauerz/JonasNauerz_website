@@ -1,7 +1,7 @@
 ---
 title: "Men and Women at Work - Gains from Individual Taxation and the Macroeconomic Importance of Workforce Diversity"
 authors: ["Jonas Nauerz"]
-date: 2022-08-22
+date: 2022-10-28
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: 2022-08-22T10:20:00+02:00

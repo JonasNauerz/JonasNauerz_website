@@ -1,7 +1,7 @@
 ---
 title: "Global Temperature Shocks and Real Exchange Rates"
 
-date: 2022-06-23
+date: 2022-07-13
 
 publishDate: 2021-03-4T14:37:16.459582Z
 
