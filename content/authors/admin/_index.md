@@ -79,8 +79,8 @@ user_groups:
 
 I am a macroeconomist focusing on labor market questions, and I am particularly interested in the interaction between micro-level heterogeneity and the effects of economic policy.
 
-I am currently a Ph.D. candidate at the University of Notre Dame. My  {{< staticref "files/JMP.pdf" "newtab" >}}job market paper{{< /staticref >}}  studies the responses in labor force participation and output to a tax reform allowing for imperfect substitutability of male and female labor inputs.
+I am currently a Ph.D. candidate at the University of Notre Dame. My <!-- {{< staticref "files/JMP.pdf" "newtab" >}}job market paper{{< /staticref >}}. --> job market paper studies the responses in labor force participation and output to a tax reform allowing for imperfect substitutability of male and female labor inputs.
 
-I will be available for interviews before and during the EJME 2022 and the ASSA 2023 meetings.
+I will be available for interviews during the EJME 2022 and the ASSA 2023 virtual meetings.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "files/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
