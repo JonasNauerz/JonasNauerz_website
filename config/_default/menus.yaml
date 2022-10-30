@@ -9,7 +9,7 @@ main:
     url: '#about'
     weight: 10
    - name: JMP
-      url: 'files/JMP.pdf'
+      url: "files/JMP.pdf"
     weight: 20   
   - name: Working Papers
       url: '#publications'
