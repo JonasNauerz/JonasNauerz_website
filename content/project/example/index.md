@@ -1,13 +1,23 @@
 ---
-title: Test
-summary: Test to test
+title: Occupational Choice and Exposure to Business Cycles
+summary: This work is joint with Bence Bardóczy, Nezih Guner, and Georgi Kocharkov. Recessions are not uniform across demographic groups, and the sectoral and occupational composition of employment explains much of the differences in exposure. Furthermore, compared to purely aggregate shocks, the relative importance of sector or region-specific shocks in determining business cycles has increased over time and is prominent today. We build a business cycle model with heterogeneous households and occupational choices to answer whether targeted taxes and transfers may mitigate or even alleviate the adverse effects of business cycles on the income and employment opportunities of those most affected. We leverage administrative taxpayer and matched employee-employer data to calibrate the model economy for Germany. 
 tags:
 date: '2016-04-27T00:00:00Z'
-
-# Optional external URL for project (replaces project detail page).
-external_link: ''
- 
  
 ---
 
-Test
+What motivates this project is the observation that recessions are not uniform across demographic groups, and the sectoral and occupational composition of employment explains much of the differences in exposure. Furthermore, compared to purely aggregate shocks, the relative importance of sector or region-specific shocks in determining business cycles has increased over time and is prominent today. 
+
+We try to answer the following question: If recessions are mainly driven by sector (or occupation) specific shocks, and as a result, income and employment opportunities of some individuals (groups) are affected more than others, can targeted taxes and transfers mitigate the adverse effects of business cycles acting as automatic stabilizers?
+
+We build a business cycle model with heterogeneous households and occupational choices. In the model, each household belongs to a permanent type, which captures household characteristics that are constant (or move deterministically) with respect to the business cycle, such as age, gender, education, or the number of children. Each type of household is endowed with a vector of productivities for each occupation, i.e., some types are better at being doctors, while others are better at construction work.
+
+At any point in time, households are either not in the labor force, unemployed, or employed in one of the finite occupations. Each period, employment agents face an opportunity to change their occupations. These opportunities depend on the agent's type, her current job, and the aggregate conditions in the economy. At any point, individuals can also choose to stay out of the labor force. Similarly, some employed individuals face shocks that move them to involuntary unemployment. Once unemployed, workers find jobs with a given probability. Both job separation and job-finding rates depend on the aggregate state of the economy. These exogenous probabilities capture underlying frictions in a parsimonious way. 
+
+As workers move between different occupations, they also face idiosyncratic productivity shocks. Hence, a household's labor income depends on its permanent productivity for each occupation, its current productivity shocks, and market wages for each occupation. As a result, the economy is populated by workers who differ by employment status, labor market productivity shocks, and asset holdings.
+
+The production side of the economy consists of different sectors that employ workers from different occupations. As a result, sectoral and aggregate shocks trickle down to households as demand shocks for their occupations. Households react by adjusting their savings, hours worked, and occupational choices. 
+
+What is the role of government in this economy? The government will implement a tax and transfer program that maps the gross incomes of the household into an after-tax-and-transfer net income. The simplest form of these programs consists of means-tested transfers and progressive taxes, which do not depend on any household type. These programs act as automatic stabilizers by providing resources to households whose income declines during recessions. The framework, however, can also allow for taxes and transfers targeted to specific types of households, such as age-dependent or gender-dependent taxes and transfers. A natural question is whether such targeted tax-transfers schemes can do better than schemes that only depend on income. Another type of government program that can be evaluated within the current environment is the short-time work policies. These programs provide subsidies to workers for implementing temporary reductions in the number of hours worked and were very popular during the Great Recession in several European countries.
+
+We leverage administrative taxpayer and matched employee-employer data to calibrate the model economy for Germany. Specifically, we use the Sample of Integrated Labour Market Biographies (SIAB)\footnote{The SIAB is a 2 percent random sample drawn from the Integrated Employment Biographies, which consist of all individuals in employment subject to social security and unemployment benefit recipients in Germany.} to estimate the occupational productivities for each type of household and the dynamics of the transitions between occupations, unemployment, and non-employment for different types of households. 
