@@ -8,10 +8,13 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Research
-      url: '#featured'
-    weight: 20
+   - name: JMP
+      url: 'files/JMP.pdf'
+    weight: 20   
+  - name: Working Papers
+      url: '#publications'
+    weight: 30
   - name: Curriculum Vitae
     url: "files/cv.pdf"
-    weight: 30
+    weight: 40
 
