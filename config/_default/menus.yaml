@@ -14,7 +14,10 @@ main:
   - name: Working Papers
     url: '#publications'
     weight: 30
+  - name: Work in Progress
+    url: '#projects'
+    weight: 40    
   - name: CV
     url: "files/cv.pdf"
-    weight: 40
+    weight: 50
 
