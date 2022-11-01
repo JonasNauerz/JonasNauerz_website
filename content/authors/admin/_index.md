@@ -81,6 +81,6 @@ I am a macroeconomist focusing on labor market questions, and I am particularly 
 
 I am currently a Ph.D. candidate at the University of Notre Dame. My {{< staticref "files/JMP.pdf" "newtab" >}}job market paper{{< /staticref >}} examines the responses in labor force participation and output to a tax reform allowing for imperfect substitutability of male and female labor inputs.
 
-I will be available for interviews during winter of 2022-2023.
+I will be available for interviews during the winter of 2022-2023.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "files/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
